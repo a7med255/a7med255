@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **NET Core, Clean Architecture, REST APIs, Authentication (JWT, OAuth)**
 
-- 📫 How to reach me **a7med.mans25@gmail.com**
+- 📫 How to reach me **ahmedhamdymansour25@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
