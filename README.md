@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hamdy Mansour</h1>
-<h3 align="center">🚀.NET Backend Developer | ASP.NET Core | APIs | Authentication</h3>
+<h3 align="center">🚀Software Engineer | .NET Backend Developer | ASP.NET Core | APIs | Authentication</h3>
 <h4 align="center">💡 Passionate about backend development, problem-solving, and building scalable solutions.  </h4>
 
 ## 🚀 Skills & Technologies
-- **Languages:** C#,C++,Java,JavaScript
+- **Languages:** C#,C++,Java,JavaScript,x++
 - **Frameworks:** .NET Core, ASP.NET MVC, Entity Framework  
 - **Databases:** SQL Server, MySql  
 
